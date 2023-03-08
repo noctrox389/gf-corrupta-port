@@ -1,0 +1,26 @@
+{
+	"storyName": "Allure Remix Friday Night Funkin' Corruption",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Allure-Remix",
+			"gf-corrupted",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "WeekGF"
+}

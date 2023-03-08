@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_Corrupted.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Dancing Corrupted0000" x="0" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0001" x="704" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0002" x="704" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0003" x="1408" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0004" x="2112" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0005" x="0" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0006" x="0" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0007" x="0" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0008" x="0" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0009" x="0" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0010" x="0" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0011" x="0" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0012" x="0" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0013" x="0" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0014" x="0" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0015" x="2816" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0016" x="3520" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0017" x="3520" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0018" x="4224" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0019" x="4928" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0020" x="2816" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0021" x="2816" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0022" x="2816" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0023" x="2816" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0024" x="2816" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0025" x="2816" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0026" x="2816" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0027" x="2816" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0028" x="2816" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Dancing Corrupted0029" x="2816" y="0" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Left0000" x="0" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0001" x="704" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0002" x="1408" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0003" x="2112" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0004" x="2816" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0005" x="3520" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0006" x="2816" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0007" x="3520" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0008" x="2816" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0009" x="3520" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0010" x="2816" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0011" x="3520" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0012" x="2816" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0013" x="3520" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0014" x="2816" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0015" x="3520" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0016" x="2816" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0017" x="3520" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0018" x="2816" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0019" x="3520" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0020" x="2816" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0021" x="3520" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0022" x="2816" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0023" x="3520" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0024" x="2816" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0025" x="3520" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0026" x="2816" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0027" x="3520" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0028" x="2816" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0029" x="3520" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0030" x="2816" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0031" x="3520" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Left0032" x="2816" y="651" width="703" height="649" frameX="0" frameY="0" frameWidth="703" frameHeight="649"/>
+	<SubTexture name="GF Corrupted Right0000" x="4224" y="651" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0001" x="4928" y="651" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0002" x="0" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0003" x="704" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0004" x="1408" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0005" x="2112" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0006" x="1408" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0007" x="2112" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0008" x="1408" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0009" x="2112" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0010" x="1408" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0011" x="2112" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0012" x="1408" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0013" x="2112" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0014" x="1408" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0015" x="2112" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0016" x="1408" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0017" x="2112" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0018" x="1408" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0019" x="2112" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0020" x="1408" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0021" x="2112" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0022" x="1408" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0023" x="2112" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0024" x="1408" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0025" x="2112" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0026" x="1408" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0027" x="2112" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0028" x="1408" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0029" x="2112" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0030" x="1408" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0031" x="2112" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Right0032" x="1408" y="1301" width="703" height="650" frameX="0" frameY="0" frameWidth="703" frameHeight="650"/>
+	<SubTexture name="GF Corrupted Down0000" x="2816" y="1301" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0001" x="3520" y="1301" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0002" x="4224" y="1302" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0003" x="4928" y="1302" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0004" x="0" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0005" x="704" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0006" x="0" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0007" x="704" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0008" x="0" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0009" x="704" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0010" x="0" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0011" x="704" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0012" x="0" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0013" x="704" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0014" x="0" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0015" x="704" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0016" x="0" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0017" x="704" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0018" x="0" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0019" x="704" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0020" x="0" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0021" x="704" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0022" x="0" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0023" x="704" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0024" x="0" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0025" x="704" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0026" x="0" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0027" x="704" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0028" x="0" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0029" x="704" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0030" x="0" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0031" x="704" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Down0032" x="0" y="1952" width="703" height="645" frameX="0" frameY="0" frameWidth="703" frameHeight="645"/>
+	<SubTexture name="GF Corrupted Up0000" x="1408" y="1952" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0001" x="2112" y="1952" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0002" x="2816" y="1947" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0003" x="3520" y="1947" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0004" x="4224" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0005" x="4928" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0006" x="4224" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0007" x="4928" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0008" x="4224" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0009" x="4928" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0010" x="4224" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0011" x="4928" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0012" x="4224" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0013" x="4928" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0014" x="4224" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0015" x="4928" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0016" x="4224" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0017" x="4928" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0018" x="4224" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0019" x="4928" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0020" x="4224" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0021" x="4928" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0022" x="4224" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0023" x="4928" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0024" x="4224" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0025" x="4928" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0026" x="4224" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0027" x="4928" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0028" x="4224" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0029" x="4928" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0030" x="4224" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0031" x="4928" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Up0032" x="4224" y="1948" width="703" height="654" frameX="0" frameY="0" frameWidth="703" frameHeight="654"/>
+	<SubTexture name="GF Corrupted Cuello0000" x="0" y="2598" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0001" x="704" y="2598" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0002" x="1408" y="2607" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0003" x="2112" y="2607" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0004" x="2816" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0005" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0006" x="4224" y="2603" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0007" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0008" x="4224" y="2603" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0009" x="4928" y="2603" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0010" x="0" y="3254" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0011" x="704" y="3254" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0012" x="2816" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0013" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0014" x="4224" y="2603" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0015" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0016" x="2816" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0017" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0018" x="4224" y="2603" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0019" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0020" x="2816" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0021" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0022" x="1408" y="3263" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0023" x="2112" y="3263" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0024" x="2816" y="3258" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0025" x="3520" y="3258" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0026" x="2816" y="3258" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0027" x="3520" y="3258" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0028" x="0" y="2598" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0029" x="704" y="2598" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0030" x="1408" y="2607" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0031" x="2112" y="2607" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0032" x="2816" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0033" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0034" x="4224" y="2603" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0035" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0036" x="4224" y="2603" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0037" x="4928" y="2603" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0038" x="0" y="3254" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0039" x="2816" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0040" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0041" x="4224" y="2603" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0042" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0043" x="2816" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0044" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0045" x="4224" y="2603" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0046" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0047" x="2816" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0048" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0049" x="1408" y="3263" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0050" x="2112" y="3263" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0051" x="2816" y="3258" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0052" x="3520" y="3258" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0053" x="2816" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0054" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0055" x="0" y="2598" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0056" x="704" y="2598" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0057" x="1408" y="2607" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0058" x="2112" y="2607" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0059" x="2816" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0060" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0061" x="4224" y="2603" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0062" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0063" x="2816" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0064" x="4928" y="2603" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0065" x="0" y="3254" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0066" x="704" y="3254" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0067" x="2816" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0068" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0069" x="4224" y="2603" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0070" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0071" x="2816" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0072" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0073" x="4224" y="2603" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0074" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0075" x="2816" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0076" x="1408" y="3263" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0077" x="2112" y="3263" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0078" x="1408" y="3263" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0079" x="2816" y="3258" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0080" x="3520" y="3258" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0081" x="2816" y="3258" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0082" x="3520" y="3258" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0083" x="0" y="2598" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0084" x="704" y="2598" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0085" x="2112" y="2607" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0086" x="2816" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0087" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0088" x="4224" y="2603" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0089" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0090" x="2816" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0091" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0092" x="4928" y="2603" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0093" x="0" y="3254" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0094" x="2816" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0095" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0096" x="4224" y="2603" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0097" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0098" x="2816" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0099" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0100" x="4224" y="2603" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0101" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0102" x="2816" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0103" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0104" x="1408" y="3263" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0105" x="2112" y="3263" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0106" x="1408" y="3263" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0107" x="2816" y="3258" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0108" x="2816" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0109" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0110" x="0" y="2598" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0111" x="704" y="2598" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0112" x="1408" y="2607" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0113" x="2112" y="2607" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0114" x="2816" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0115" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0116" x="4224" y="2603" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0117" x="3520" y="2602" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0118" x="4224" y="2603" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello0119" x="4928" y="2603" width="703" height="655" frameX="0" frameY="0" frameWidth="703" frameHeight="655"/>
+	<SubTexture name="GF Corrupted Cuello Roto0000" x="4224" y="3259" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0001" x="4224" y="3259" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0002" x="4928" y="3259" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0003" x="0" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0004" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0005" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0006" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0007" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0008" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0009" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0010" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0011" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0012" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0013" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0014" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0015" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0016" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0017" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0018" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0019" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0020" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0021" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0022" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0023" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0024" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0025" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0026" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0027" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0028" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0029" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0030" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0031" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0032" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0033" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0034" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0035" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0036" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0037" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0038" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0039" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0040" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0041" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0042" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0043" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0044" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0045" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0046" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0047" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0048" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0049" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0050" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0051" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0052" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0053" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0054" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0055" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0056" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0057" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0058" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0059" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0060" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0061" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0062" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0063" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0064" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0065" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0066" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0067" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0068" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0069" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0070" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0071" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0072" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0073" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0074" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0075" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0076" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0077" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0078" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0079" x="704" y="3910" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+	<SubTexture name="GF Corrupted Cuello Roto0080" x="1408" y="3919" width="703" height="625" frameX="0" frameY="0" frameWidth="703" frameHeight="625"/>
+</TextureAtlas>
